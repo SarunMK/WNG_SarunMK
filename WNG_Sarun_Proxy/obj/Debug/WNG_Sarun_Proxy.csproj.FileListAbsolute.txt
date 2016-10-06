@@ -1,0 +1,4 @@
+D:\Technical\Practical\DotNet\Projects\WNG_Sarun\WNG_Sarun_Proxy\bin\Debug\WNG_Sarun_Proxy.dll
+D:\Technical\Practical\DotNet\Projects\WNG_Sarun\WNG_Sarun_Proxy\bin\Debug\WNG_Sarun_Proxy.pdb
+D:\Technical\Practical\DotNet\Projects\WNG_Sarun\WNG_Sarun_Proxy\obj\Debug\WNG_Sarun_Proxy.dll
+D:\Technical\Practical\DotNet\Projects\WNG_Sarun\WNG_Sarun_Proxy\obj\Debug\WNG_Sarun_Proxy.pdb

@@ -1,0 +1,5 @@
+D:\Technical\Practical\DotNet\Projects\WNG_Sarun\WNG_Sarun_Service\bin\WNG_Sarun_Service.dll.config
+D:\Technical\Practical\DotNet\Projects\WNG_Sarun\WNG_Sarun_Service\bin\WNG_Sarun_Service.dll
+D:\Technical\Practical\DotNet\Projects\WNG_Sarun\WNG_Sarun_Service\bin\WNG_Sarun_Service.pdb
+D:\Technical\Practical\DotNet\Projects\WNG_Sarun\WNG_Sarun_Service\obj\Debug\WNG_Sarun_Service.dll
+D:\Technical\Practical\DotNet\Projects\WNG_Sarun\WNG_Sarun_Service\obj\Debug\WNG_Sarun_Service.pdb

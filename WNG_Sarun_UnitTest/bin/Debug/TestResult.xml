@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Technical\Practical\DotNet\Projects\WNG_Sarun\WNG_Sarun_UnitTest\bin\Debug\WNG_Sarun_UnitTest.dll" total="16" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-10-06" time="01:12:55">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.8669" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0" machine-name="LAPTOP-SARUN" user="Sarun" user-domain="LAPTOP-SARUN" />
+  <culture-info current-culture="en-IN" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Technical\Practical\DotNet\Projects\WNG_Sarun\WNG_Sarun_UnitTest\bin\Debug\WNG_Sarun_UnitTest.dll" executed="True" result="Success" success="True" time="0.188" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="WNG_Sarun_UnitTest" executed="True" result="Success" success="True" time="0.184" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="NumberUnitTest" executed="True" result="Success" success="True" time="0.184" asserts="0">
+            <results>
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllEvenNumbers_WithInput10CheckFirstItemInArray" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllEvenNumbers_WithInput10CheckLastItemInArray" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllEvenNumbers_WithInput10CheckLength" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllFibonacciNumbers_WithInput10CheckFirstItemInArray" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllFibonacciNumbers_WithInput10CheckLastItemInArray" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllFibonacciNumbers_WithInput10CheckLength" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllNumbers_WithInput10CheckFirstItemInArray" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllNumbers_WithInput10CheckLastItemInArray" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllNumbers_WithInput10CheckLength" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllNumbersExceptMultiplesOfThreeAndFive_WithInput10CheckDoesNotContain3" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllNumbersExceptMultiplesOfThreeAndFive_WithInput10CheckDoesNotContain5" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllNumbersExceptMultiplesOfThreeAndFive_WithInput10CheckLength" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllNumbersExceptMultiplesOfThreeAndFive_WithInput15CheckDoesNotContain15" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllOddNumbers_WithInput10CheckFirstItemInArray" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllOddNumbers_WithInput10CheckLastItemInArray" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="WNG_Sarun_UnitTest.NumberUnitTest.GetAllOddNumbers_WithInput10CheckLength" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
